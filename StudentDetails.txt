@@ -1,0 +1,7 @@
+ID: 101 | Name: Arun | Age: 21 | Course: Computer Science
+ID: 102 | Name: Anjali | Age: 22 | Course: Mathematics
+ID: 103 | Name: Rahul | Age: 20 | Course: Physics
+ID: 104 | Name: Meera | Age: 21 | Course: Computer Science
+ID: 105 | Name: Adarsh | Age: 23 | Course: Commerce
+ID: 106 | Name: Neha | Age: 22 | Course: Biology
+ID: 107 | Name: Vishnu | Age: 21 | Course: Computer Science
