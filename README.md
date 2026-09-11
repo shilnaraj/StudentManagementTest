@@ -12,3 +12,9 @@ Demo task for student management
 
 ## Developer
 Shilna
+
+## Features
+
+Manage student records
+Manage course records
+Track project versions
