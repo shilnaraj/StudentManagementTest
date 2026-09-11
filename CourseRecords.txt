@@ -1,0 +1,5 @@
+Course ID: C101 | Course: Python Programming | Duration: 3 Months
+Course ID: C102 | Course: C# and .NET | Duration: 4 Months
+Course ID: C103 | Course: Web Development | Duration: 3 Months
+Course ID: C104 | Course: Database Management | Duration: 2 Months
+Course ID: C105 | Course: DevOps Fundamentals | Duration: 3 Months
