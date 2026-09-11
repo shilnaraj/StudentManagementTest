@@ -25,3 +25,7 @@ Git
 GitHub
 
 Git Bash
+
+## Branch Information
+
+Main branch contains the latest project information.
