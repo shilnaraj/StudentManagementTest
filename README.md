@@ -1,4 +1,4 @@
-## Version 1.0
+# Version 1.0
 
 # Project Name
 Student Management System
@@ -23,9 +23,9 @@ Track project versions
 
 Git
 GitHub
-
 Git Bash
 
 ## Branch Information
 
 Main branch contains the latest project information.
+Course Details branch contains course-related information.
