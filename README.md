@@ -18,3 +18,10 @@ Shilna
 Manage student records
 Manage course records
 Track project versions
+
+## Technology
+
+Git
+GitHub
+
+Git Bash
