@@ -29,3 +29,7 @@ Git Bash
 
 Main branch contains the latest project information.
 Course Details branch contains course-related information.
+
+## Latest Update
+
+The project now supports student and course management.
